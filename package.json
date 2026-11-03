@@ -10,15 +10,15 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^6.0.0",
     "cross-env": "^6.0.0",
-    "ejs": "^2.7.1",
-    "express": "^4.17.1",
+    "ejs": "^3.1.10",
+    "express": "^4.22.0",
     "express-promise-router": "^3.0.3",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.7.1",
-    "morgan": "^1.9.1",
-    "passport": "^0.4.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.13.10",
+    "morgan": "^1.12.1",
+    "passport": "^0.6.0",
     "passport-jwt": "^4.0.0"
   },
   "devDependencies": {
